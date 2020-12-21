@@ -67,6 +67,9 @@ public class Solution {
                 res.next = new ListNode();
                 res = res.next;
             } else {
+                if (pre > 0) {
+                    res.next =  new ListNode(pre);
+                }
                 return result;
             }
         }
