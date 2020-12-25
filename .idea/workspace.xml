@@ -3,13 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="6a2854a3-d4c3-4cd1-8905-4ff1000eaba5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/issuelist/add_two_numbers_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/issuelist/add_two_numbers_2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/issuelist/longest_substring_without_repeating_characters_3/LengthOfLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/issuelist/longest_substring_without_repeating_characters_3/LengthOfLongestSubstring.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="248" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -19,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/issuelist/issue_389/FindTheDifference.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+            <state relative-caret-position="638">
+              <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,32 +40,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/issuelist/add_two_numbers_2/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="522">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/java/issuelist/longest_substring_without_repeating_characters_3/LengthOfLongestSubstring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1508">
-              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+            <state relative-caret-position="616">
+              <caret line="104" column="19" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="19" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#2180#2191#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/soft/jdk/jdk1.8.0_181/jdk1.8.0_181/src.zip!/java/util/Set.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="40" column="2" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -79,6 +73,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>result</find>
+      <find>occ</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -89,8 +84,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/java/issuelist/add_two_numbers_2/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/java/issuelist/longest_substring_without_repeating_characters_3/LengthOfLongestSubstring.java" />
         <option value="$PROJECT_DIR$/src/java/issuelist/add_two_numbers_2/Solution.java" />
+        <option value="$PROJECT_DIR$/src/java/issuelist/longest_substring_without_repeating_characters_3/LengthOfLongestSubstring.java" />
       </list>
     </option>
   </component>
@@ -106,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,12 +140,27 @@
               <item name="issuelist" type="462c0819:PsiDirectoryNode" />
               <item name="add_two_numbers_2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leecode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="issuelist" type="462c0819:PsiDirectoryNode" />
+              <item name="issue_389" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leecode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="issuelist" type="462c0819:PsiDirectoryNode" />
+              <item name="longest_substring_without_repeating_characters_3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -162,7 +173,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -176,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.LengthOfLongestSubstring">
     <configuration name="FindTheDifference (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="issuelist.issue_389.FindTheDifference" />
       <extension name="coverage">
@@ -230,8 +241,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.LengthOfLongestSubstring" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.FindTheDifference" />
         <item itemvalue="Application.FindTheDifference (1)" />
       </list>
@@ -249,7 +260,8 @@
       <updated>1608284792709</updated>
       <workItem from="1608284795770" duration="2931000" />
       <workItem from="1608354158791" duration="3036000" />
-      <workItem from="1608520986843" duration="482000" />
+      <workItem from="1608520986843" duration="5529000" />
+      <workItem from="1608883226205" duration="6967000" />
     </task>
     <task id="LOCAL-00001" summary="项目启动">
       <created>1608476067255</created>
@@ -265,17 +277,38 @@
       <option name="project" value="LOCAL" />
       <updated>1608520831867</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="AC第2题">
+      <created>1608521495127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608521495127</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第三题修改（未ac）">
+      <created>1608528710127</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608528710127</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第三题修改（ac）">
+      <created>1608889967794</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608889967794</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6813000" />
+    <option name="totallyTimeSpent" value="18827000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25998005" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26247504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -284,8 +317,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32997987" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2334004" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.030181086" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.22535211" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -295,8 +328,9 @@
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Coverage" sideWeight="0.5015015" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4984985" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
@@ -346,35 +380,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="项目启动" />
     <MESSAGE value="第2题第3题，代码（未AC）" />
-    <option name="LAST_COMMIT_MESSAGE" value="第2题第3题，代码（未AC）" />
+    <MESSAGE value="AC第2题" />
+    <MESSAGE value="第三题修改（未ac）" />
+    <MESSAGE value="第三题修改（ac）" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三题修改（ac）" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/issuelist/longest_substring_without_repeating_characters_3/LengthOfLongestSubstring.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/issuelist/longest_substring_without_repeating_characters_3/LengthOfLongestSubstring.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/issuelist/longest_substring_without_repeating_characters_3/LengthOfLongestSubstring.java</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/issuelist/longest_substring_without_repeating_characters_3/LengthOfLongestSubstring.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/java/issuelist/add_two_numbers_2/Solution.java</url>
           <line>27</line>
@@ -383,6 +396,15 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leecode$LengthOfLongestSubstring.ic" NAME="LengthOfLongestSubstring Coverage Results" MODIFIED="1608890017442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>issuelist.longest_substring_without_repeating_characters_3.*</FILTER>
+    </SUITE>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -394,16 +416,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java/issuelist/issue_389/FindTheDifference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java/issuelist/add_two_numbers_2/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
@@ -411,27 +423,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/issuelist/longest_substring_without_repeating_characters_3/LengthOfLongestSubstring.java">
+    <entry file="file://$PROJECT_DIR$/src/java/issuelist/add_two_numbers_2/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1508">
-          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        <state relative-caret-position="522">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/issuelist/issue_389/FindTheDifference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/soft/jdk/jdk1.8.0_181/jdk1.8.0_181/src.zip!/java/util/Set.java">
+    <entry file="jar://D:/soft/jdk/jdk1.8.0_181/jdk1.8.0_181/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="40" column="2" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
+        <state relative-caret-position="240">
+          <caret line="566" column="36" selection-start-line="566" selection-start-column="32" selection-end-line="566" selection-end-column="36" />
+          <folding>
+            <element signature="e#23628#23629#0" expanded="true" />
+            <element signature="e#23682#23683#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/issuelist/add_two_numbers_2/Solution.java">
+    <entry file="jar://D:/soft/jdk/jdk1.8.0_181/jdk1.8.0_181/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="203" column="24" selection-start-line="203" selection-start-column="24" selection-end-line="203" selection-end-column="24" />
+          <folding>
+            <element signature="e#3740#3741#0" expanded="true" />
+            <element signature="e#3777#3778#0" expanded="true" />
+            <element signature="e#7427#7428#0" expanded="true" />
+            <element signature="e#7468#7469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/jdk/jdk1.8.0_181/jdk1.8.0_181/src.zip!/java/util/Set.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <caret line="115" column="48" lean-forward="true" selection-start-line="115" selection-start-column="48" selection-end-line="115" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/jdk/jdk1.8.0_181/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="1932" column="78" selection-start-line="1932" selection-start-column="72" selection-end-line="1932" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/issuelist/longest_substring_without_repeating_characters_3/LengthOfLongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="104" column="19" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="19" />
+          <folding>
+            <element signature="e#2180#2191#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
