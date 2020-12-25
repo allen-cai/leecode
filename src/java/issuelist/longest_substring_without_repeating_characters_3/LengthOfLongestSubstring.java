@@ -12,7 +12,10 @@ public class LengthOfLongestSubstring {
 
     public static void main(String[] args) {
         String s = "pwwkew";
-        int len = LengthOfLongestSubstring.lengthOfLongestSubstring(s);
+        int len = LengthOfLongestSubstring.lengthOfLongestSubstring5(s);
+
+        int i = 0;
+
 
         System.out.println(len);
     }
@@ -89,7 +92,7 @@ public class LengthOfLongestSubstring {
      * @param s
      * @return
      */
-    public int lengthOfLongestSubstring5(String s) {
+    public static int lengthOfLongestSubstring5(String s) {
         // 哈希集合，记录每个字符是否出现过
         Set<Character> occ = new HashSet<Character>();
         int n = s.length();
