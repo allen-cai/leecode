@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a2854a3-d4c3-4cd1-8905-4ff1000eaba5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java/issuelist/Bytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/issuelist/two_sum_1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/issuelist/last_stone_weight_1046/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/issuelist/issue_389/FindTheDifference.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+            <state relative-caret-position="435">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -32,20 +31,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/issuelist/Bytes.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java/issuelist/last_stone_weight_1046/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+            <state relative-caret-position="1856">
+              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/issuelist/two_sum_1/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+            <state relative-caret-position="319">
+              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -105,6 +104,7 @@
         <option value="$PROJECT_DIR$/src/java/issuelist/issue_389/FindTheDifference.java" />
         <option value="$PROJECT_DIR$/src/java/issuelist/Bytes.java" />
         <option value="$PROJECT_DIR$/src/java/issuelist/two_sum_1/Solution.java" />
+        <option value="$PROJECT_DIR$/src/java/issuelist/last_stone_weight_1046/Solution.java" />
       </list>
     </option>
   </component>
@@ -152,14 +152,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="issuelist" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leecode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leecode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="issuelist" type="462c0819:PsiDirectoryNode" />
-              <item name="two_sum_1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -190,25 +182,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Bytes">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="Bytes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="issuelist.Bytes" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="issuelist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindTheDifference (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="issuelist.issue_389.FindTheDifference" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="issuelist.issue_389.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,6 +222,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="issuelist.last_stone_weight_1046.Solution" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="issuelist.last_stone_weight_1046.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="issuelist.add_two_numbers_2.Solution" />
       <module name="leecode" />
@@ -257,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Bytes" />
         <item itemvalue="Application.FindTheDifference" />
         <item itemvalue="Application.LengthOfLongestSubstring" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.FindTheDifference (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +273,7 @@
       <workItem from="1608520986843" duration="5529000" />
       <workItem from="1608883226205" duration="7832000" />
       <workItem from="1609128161351" duration="1060000" />
-      <workItem from="1609311728306" duration="2016000" />
+      <workItem from="1609311728306" duration="4913000" />
     </task>
     <task id="LOCAL-00001" summary="项目启动">
       <created>1608476067255</created>
@@ -331,17 +324,24 @@
       <option name="project" value="LOCAL" />
       <updated>1608891751769</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="第四题 两数之和">
+      <created>1609314114381</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609314114381</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22768000" />
+    <option name="totallyTimeSpent" value="25665000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26746505" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26746505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -351,7 +351,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32997987" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.030181086" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.28470826" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.30482897" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -417,7 +417,8 @@
     <MESSAGE value="第三题修改（未ac）" />
     <MESSAGE value="第三题修改（ac）" />
     <MESSAGE value="第三题添加官方答案" />
-    <option name="LAST_COMMIT_MESSAGE" value="第三题添加官方答案" />
+    <MESSAGE value="第四题 两数之和" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四题 两数之和" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -427,12 +428,6 @@
           <line>27</line>
           <properties />
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/issuelist/Bytes.java</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -499,16 +494,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/issuelist/issue_389/FindTheDifference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java/issuelist/add_two_numbers_2/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
@@ -530,17 +515,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/issuelist/Bytes.java">
+    <entry file="file://$PROJECT_DIR$/src/java/issuelist/two_sum_1/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        <state relative-caret-position="319">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/issuelist/two_sum_1/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/java/issuelist/Bytes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        <state relative-caret-position="754">
+          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/issuelist/issue_389/FindTheDifference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/jdk/jdk1.8.0_181/jdk1.8.0_181/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2233">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/issuelist/last_stone_weight_1046/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1856">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
         </state>
       </provider>
     </entry>
